@@ -1,0 +1,70 @@
+body{
+    background-color: aqua;
+}
+.contenedor_cv{
+    background-color: #30D5C8;
+    padding: 10px;
+    border-style: solid;
+    border-width: 2px;
+}
+.cabecera{
+    background-color: rgb(104, 255, 242);
+    color: black;
+    padding: 20px;
+    display: flex;
+    border-style: solid;
+    border-width: 2px;
+}
+
+.contenedor_principal{
+    background-color: #30D5C8;
+    padding: 10px;
+    display: flex;
+    border-style: solid;
+    border-width: 2px;
+}
+.barra_lateral{
+    background-color:rgb(104, 255, 242);
+    padding: 10px;
+    width:20%;
+    border-style: solid;
+    border-width: 2px;
+}
+.informacion_cv{
+    background-color: rgb(104, 255, 242);
+    padding:10px;
+    width:80%;
+    border-style: solid;
+    border-width: 2px;
+
+}
+.pie-pagina {
+    background-color: #0f0858;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.contacto-item {
+    padding: 10px;
+}
+
+.icono-pie {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.foto_mono{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 30px;
+    border-style: solid;
+    border-width: 5px;
+    color: black;
+}
+.bi{
+    font-size: 100%;
+    
+}
